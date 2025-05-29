@@ -62,7 +62,7 @@ Designed an interactive dashboard that shows performance of the helpdesk support
 ### Customer Churn Dashboard
 [Project Details](https://public.tableau.com/app/profile/helen.soremekun/viz/Tableau_Telco_customer_churn/Churn_Rate_TrendsPatterns?publish=yes)
 
-An ideal churn rate is 5-7% per year, depending on if you measure customers or revenue. The churn rate in this project was calculated overall, for a period of 72 months (3 years) based on the data set fields: customer segments, service types, monthly charges, payment methods, tech support, streaming services and contract type. In the period of three years, churn rate was 26.54%, with with a 1.8% per year churn rate increase above an ideal 7% upper band churn rate.
+An ideal churn rate is 5-7% per year, depending on if you measure customers or revenue. The churn rate in this project was calculated overall, for a period of 72 months (3 years) based on the data set fields: customer segments, service types, monthly charges, payment methods, tech support, streaming services and contract type using **SQL queries** and **Tableau** for visualization. In the period of three years, churn rate was 26.54%, with with a 1.8% per year churn rate increase above an ideal 7% upper band churn rate.
 
 ![Churn rate by Demographics](imgfolder/Churn_Rate_Trends&Patterns.png)
 
