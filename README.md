@@ -2,6 +2,7 @@
 
 #### Technical Skills 
 **Data Science**: Python, SQL, R, Spark, Machine Learning, Azure Databricks, Google Cloud Platform (GCP), CI/CD, Github Actions.
+
 **Analytics**: Microsoft Fabric, Excel, Git, Azure Data Studio, PowerBI, Tableau, Looker, SSMS, MySQL, ETL, Data Modelling.
 
 
