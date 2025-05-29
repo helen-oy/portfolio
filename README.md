@@ -38,7 +38,8 @@ Led a 4-member team to build a big data solution to classify originally  unlab
 
 Used Artificial Neural Network combined with k-means clustering for predicting bus arrival times for Department of Transports’ Bus Open Data Service, United- Kingdom. Applied K-means clustering to segment travel times and trained ANN models to classify travel times into delay categories:  zero, low, moderate, and high. This approach led to better identify temporal trends, such as peak delays during weekday mornings and minimal delays in off-peak hours. The results contributes to improving the public transport systems by offering more reliable arrival time predictions.
 
-<img src="imgfolder/bodsimage.jpeg" alt="Bus Open Data Service" height = "500" width="400"/>< ><img src="imgfolder/AverageTravelTimebyHouroftheDay.png" alt="Average Travel Time By Hour of the day" height = "500" width="400"/>
+<img src="imgfolder/bodsimage.jpeg" alt="Bus Open Data Service" height = "500" width="300" style="margin-right:20px;"/>
+<img src="imgfolder/AverageTravelTimebyHouroftheDay.png" alt="Average Travel Time By Hour of the day" height = "500" width="400"/>
 
 ### Customer Lifetime Prediction and Churn Analysis
 [Project Details](https://github.com/helen-oy/Customer_Lifetime_Value_ML_Model)
