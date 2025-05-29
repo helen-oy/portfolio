@@ -27,6 +27,7 @@
 
 ### Healthcare Tweet Sentiment Classification- PySpark, Databricks.
 [Project](https://github.com/helen-oy/Big-Data-Analytics-projects)
+
 Led a 4-member team to build a big data solution to classify originally  unlabelled text from tweets to different topics. This data-driven approach leveraging **Spark SQL**, **Spark ML** libraries and Multinomial Naive Bayes models in global self-supervised learning and pure local approach led to better identify the approach that outperformed the more commonly used local approach and obtain underlying key topics in health-related tweets. The proposed global self-supervised learning achieved 80% Multilabel Accuracy and a big data scalable design solution.
 
 ![Hot Healthcare Topics](imgfolder/tweetsPicture.png)
@@ -39,6 +40,8 @@ Used Artificial Neural Network combined with k-means clustering for predicting b
 
 ![Bus Open Data Service](imgfolder/bodsimage.jpeg)![Average Travel Time By Hour of the day](imgfolder/AverageTravelTimebyHouroftheDay.png) 
 
+<img src="imgfolder/bodsimage.jpeg" alt="Bus Open Data Service" width="300"/>
+<img src="imgfolder/AverageTravelTimebyHouroftheDay.png" alt="Average Travel Time By Hour of the day" width="300"/>
 
 ### Customer Lifetime Prediction and Attrition/Churn Analysis - Python, ML, xGBOOST.
 [Project](https://github.com/helen-oy/Customer_Lifetime_Value_ML_Model)
