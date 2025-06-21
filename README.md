@@ -7,6 +7,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NRLH7Z9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 
 # Data Scientist
 
@@ -103,10 +108,6 @@ Created an Interactive dashboard and interpreted 150,000+  transactional data in
 ### Count-based Analysis of Pet breeds 
 Using **Excel** functions like pivot tables, slicers, vlookups, xlookups, pivot charts, created a summary of the count-based analysis of cat and dog breeds based on their different subgroups such as weight, physical characteristics, temperament, price, and average sales. Identified that Quantity sold is independent of the popularity of dog and cat breeds. High/less-popular breeds have almost the same quantity sold. In the selection of top breeds to stock up are Turkish van, American shorthair, LaPerm and Persian cats promises to yield the most revenue, based on average price and quantity sold.
  
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NRLH7Z9"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 
 
