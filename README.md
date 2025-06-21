@@ -1,6 +1,5 @@
 ---
 layout: default
-title: My Portfolio
 ---
 
 # Data Scientist
