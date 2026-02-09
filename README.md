@@ -53,8 +53,8 @@
 
 ### Bus Arrival Time Prediction
 [Project Details]
-
 (https://github.com/helen-oy/Transport-Data-Analysis-Big-data-project-)
+
 **Business Goal**
 The goal was to predict service delays and understand patterns affecting transport reliability.
 
@@ -69,7 +69,6 @@ This allows transport operators to adjust scheduling and resources to improve re
 
 ### Customer Lifetime Prediction and Churn Analysis
 [Project Details]
-
 (https://github.com/helen-oy/Customer_Lifetime_Value_ML_Model)
 
 **Business Goal**
@@ -88,8 +87,8 @@ This supports targeted retention strategies focused on high-value, high-risk cus
 
 ### Helpdesk Ticket Status Report
 [Project Details]
-
 (https://lookerstudio.google.com/reporting/2b302444-1d67-4be8-a9e2-ae1bdabfb073)
+
 **Business Goal**
 The goal was to monitor support team performance and identify process improvements to reduce ticket backlog.
 
@@ -105,7 +104,6 @@ This helped identify where new hires and self-service options could reduce workl
 
 ### Customer Churn Dashboard
 [Project Details]
-
 (https://public.tableau.com/app/profile/helen.soremekun/viz/Tableau_Telco_customer_churn/Churn_Rate_TrendsPatterns?publish=yes)
 
 **Business Goal**
@@ -122,7 +120,6 @@ This allows stakeholders to quickly identify high-risk segments and prioritise t
 
 ### Contact Centre KPI metrics Reporting
 [Project Details]
-
 (https://docs.google.com/spreadsheets/d/1C1dyJY6WyH9LOfsDYhYvVm60t2eqBTHzQCTRJGB4S2M/edit?gid=34913950#gid=34913950)
 
 **Business Goal**
@@ -139,7 +136,6 @@ This helped management understand peak periods, reduce abandon rates, and optimi
 
 ### Automobile Sales Analysis Report
 [Project Details]
-
 (https://app.powerbi.com/view?r=eyJrIjoiMjc4YzFmOTMtMTY2MC00YTYyLTlhNTMtNWFmOGEwMGJjMmQwIiwidCI6ImNlZWI4M2FiLTMzOTItNGViYy05ZWYxLTNmYTc2YmYzYzI0MiJ9
  )
  
@@ -157,8 +153,8 @@ This allowed leadership to identify top-performing products, profitable regions,
 
 ### Superstore Sales Insights Dashboard
 [Project Details]
-
 (https://public.tableau.com/app/profile/helen.soremekun/viz/tableauproject_sales_insight/Dashboard1?publish=yes)
+
 
 **Business Goal**
 The goal was to translate large transactional data into clear sales and customer insights for decision-making.
@@ -168,7 +164,6 @@ I connected Tableau to a MySQL database and built dashboards showing KPIs, custo
 
 **What It Enabled**
 This helped management quickly identify key revenue drivers and customer segments contributing most to sales.
-
 
 ![Superstore Sales Insights Dashboard](imgfolder/StationerySuperstoreDashboard.png)
 
