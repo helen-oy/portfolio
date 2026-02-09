@@ -35,7 +35,7 @@
   - Model Interpretation & Explainability: Enhanced model interpretability and documentation to support operational handover, producing model explanation artefacts for 4 projects and using SHAP-style techniques, Python and R.
 
 ## Projects - Data Science
-**Customer Service Response Bot (RAG + LLM for X/Twitter)**
+### Customer Service Response Bot (RAG + LLM for X/Twitter)
 
 [Project Details](https://docs.google.com/presentation/d/1uuZIGD1VnTjzdudm7wDMjz-Sf3yp5EUSyZGq9cq0nLQ/edit?usp=sharing)
 
