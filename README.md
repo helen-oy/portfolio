@@ -39,7 +39,14 @@
 ### Healthcare Tweet Sentiment Classification
 [Project Details](https://github.com/helen-oy/Big-Data-Analytics-projects)
 
-Led a 4-member team to build a big data solution to classify originally  unlabelled text from tweets to different topics. This data-driven approach leveraging **Spark SQL**, **Spark ML** libraries and Multinomial Naive Bayes models in global self-supervised learning and pure local approach led to better identify the approach that outperformed the more commonly used local approach and obtain underlying key topics in health-related tweets. The proposed global self-supervised learning achieved 80% Multilabel Accuracy and a big data scalable design solution.
+Business Goal
+“The goal was to automatically classify large volumes of unstructured text into meaningful topics to understand public sentiment at scale.”
+
+What I Did
+“I used Spark SQL and Spark ML to process high-volume tweet data and built a multinomial Naive Bayes model, comparing local modelling with a global self-supervised learning approach.”
+
+What It Enabled
+“This enables organisations to automatically monitor customer or public feedback, identify key themes, and prioritise response strategies at scale.”
 
 ![Hot Healthcare Topics](imgfolder/tweetsPicture.png)
 
