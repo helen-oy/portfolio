@@ -48,6 +48,34 @@ I cleaned and reconstructed historical tweet conversations into Q→A pairs, bui
 **What It Enabled**
 This enables near-instant, consistent responses to common customer queries, reduces false identification of unresolved tickets, and allows human agents to focus only on complex issues requiring empathy, with a ~96% reduction in response time.
 
+### Customer Lifetime Prediction and Churn Analysis
+[Project Details](https://github.com/helen-oy/Customer_Lifetime_Value_ML_Model)
+
+**Business Goal**
+The goal was to improve customer retention and marketing efficiency by identifying high-value customers and churn risk.
+
+**What I Did**
+I used SQL and Python to perform RFM and cohort analysis, then built predictive CLV and churn models using XGBoost on over 600,000 customer records.
+
+**What It Enabled**
+This supports targeted retention strategies focused on high-value, high-risk customers and better allocation of marketing spend.
+
+![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png)
+
+### Customer Churn Dashboard
+[Project Details](https://public.tableau.com/app/profile/helen.soremekun/viz/Tableau_Telco_customer_churn/Churn_Rate_TrendsPatterns?publish=yes)
+
+**Business Goal**
+The goal was to measure churn trends and identify which customer segments were driving higher-than-acceptable churn rates.
+
+**What I Did**
+I used SQL to calculate churn metrics over 72 months and built a Tableau dashboard to visualise churn by segment, contract type, and behaviour.
+
+**What It Enabled**
+This allows stakeholders to quickly identify high-risk segments and prioritise targeted retention strategies.
+
+![Churn rate by Demographics](imgfolder/Churn_Rate_Trends&Patterns.png)
+
 ### Healthcare Tweet Sentiment Classification
 [Project Details](https://github.com/helen-oy/Big-Data-Analytics-projects)
 
@@ -78,19 +106,6 @@ This allows transport operators to adjust scheduling and resources to improve re
 
 ![Bus Arrival Time Prediction](imgfolder/CDM-predicting-bus-arrival-time-at-21-st-bus-stop-station.png)
 
-### Customer Lifetime Prediction and Churn Analysis
-[Project Details](https://github.com/helen-oy/Customer_Lifetime_Value_ML_Model)
-
-**Business Goal**
-The goal was to improve customer retention and marketing efficiency by identifying high-value customers and churn risk.
-
-**What I Did**
-I used SQL and Python to perform RFM and cohort analysis, then built predictive CLV and churn models using XGBoost on over 600,000 customer records.
-
-**What It Enabled**
-This supports targeted retention strategies focused on high-value, high-risk customers and better allocation of marketing spend.
-
-![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png)
 
 ## Projects - Data Analytics
 
@@ -109,20 +124,6 @@ This helped identify where new hires and self-service options could reduce workl
 
 ![Helpdesk Ticket Report](imgfolder/Helpdesk_ticket_Looker_Report.jpg)
 
-
-### Customer Churn Dashboard
-[Project Details](https://public.tableau.com/app/profile/helen.soremekun/viz/Tableau_Telco_customer_churn/Churn_Rate_TrendsPatterns?publish=yes)
-
-**Business Goal**
-The goal was to measure churn trends and identify which customer segments were driving higher-than-acceptable churn rates.
-
-**What I Did**
-I used SQL to calculate churn metrics over 72 months and built a Tableau dashboard to visualise churn by segment, contract type, and behaviour.
-
-**What It Enabled**
-This allows stakeholders to quickly identify high-risk segments and prioritise targeted retention strategies.
-
-![Churn rate by Demographics](imgfolder/Churn_Rate_Trends&Patterns.png)
 
 
 ### Contact Centre KPI metrics Reporting
