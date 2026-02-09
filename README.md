@@ -21,7 +21,7 @@
   - Data Governance & Process Automation: Owned the insight/reporting backlog and instituted validation rules and reconciliation checks, achieving a 90% reduction in reporting errors and cutting quarterly manual effort by 80%, using Power Query, Python and SQL.
     
 **Project Analyst @ MRS Oil and Gas (_July 2022 – August 2023_)**
-  - **Operational Analytics & Downtime Reduction: Delivered performance dashboards and led trend and variance analysis across regions, contributing to a 20% reduction in unplanned downtime, using Power BI, SQL and Azure Data Studio.
+  - Operational Analytics & Downtime Reduction: Delivered performance dashboards and led trend and variance analysis across regions, contributing to a 20% reduction in unplanned downtime, using Power BI, SQL and Azure Data Studio.
   - Data Quality Monitoring & Metrics Definition: Defined success metrics and instituted data quality monitoring, sustaining a monthly reporting cadence of 14 reports during the engagement and improving leadership visibility, using SQL, Power BI and documentation.
   - Cross-Functional Coordination & Data Flow: Coordinated inputs across teams to keep data flows accurate and consistent, ensuring timely delivery of 14 scheduled regional reports and stakeholder updates, using SQL, Azure Data Studio and stakeholder communication templates.
   - Stakeholder Communication & Insight Translation: Conveyed analysis and trend findings to non-technical stakeholders through concise executive updates, delivering 14 monthly executive summaries to support decision-making, using Power BI, Excel and presentation materials.
