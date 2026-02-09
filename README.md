@@ -12,18 +12,27 @@
 - BEng., Engineering | Federal University of Agriculture, Abeokuta, Nigeria.
 
 ## Work Experience
-**Data Analyst @ Business Full Spectrum (_Jan 2024 - Present_)**
-  - Conducted exploratory data analysis on 540,000+ help desk tickets, identifying patterns and trends such as unresolved complaints by department, and visualizing the distribution of resolved, open, and overdue tickets.
-  - Designed and deployed dashboards using Tableau and Power BI to track average resolution time by department and analyzed agent workload based on ticket thread counts, improving resource allocation by 20%.
+**Data Scientist @ Business Full Spectrum (_Jan 2025 - Present_)**
+  
+  - Predictive Analytics & Churn Modeling: Built and trained a machine-learning churn model across behavioural features, achieving 95.7% prediction accuracy and enabling identification of high-risk cohorts for a targeted 10% churn reduction strategy, using Python (scikit-learn), SQL and Databricks.
+  - Experimentation & Statistical Validation: Designed and evaluated A/B tests using hypothesis testing (Mann–Whitney U, Chi-Square), validated statistically significant differences between customer groups prior to deployment, increasing confidence in retention interventions, using Python (SciPy), SQL and Power BI.
+  - Business Intelligence & Reporting Accuracy: Built and maintained acquisition, activation, engagement and retention dashboards, improving management reporting accuracy by 30% and accelerating actions on at-risk segments, using Power BI (DAX, Power Query), SQL and Python.
+  - RAG Prototype & Support Automation: Designed and evaluated a Retrieval-Augmented Generation customer support bot by reconstructing historical Twitter conversations and grounding LLM responses in agent data, reducing response time from 5 minutes to 5 seconds (98% improvement), using RAG methods, LLM tooling and Twitter data pipelines.
+  - Data Governance & Process Automation: Owned the insight/reporting backlog and instituted validation rules and reconciliation checks, achieving a 90% reduction in reporting errors and cutting quarterly manual effort by 80%, using Power Query, Python and SQL.
     
 **Project Analyst @ MRS Oil and Gas (_July 2022 – August 2023_)**
-  - Conducted data analysis of external servicing records for retail stations across 36 regions.
-  - Identified cost-saving opportunities through data-driven analysis, contributing to a 15% reduction in project expenses. 
+  - **Operational Analytics & Downtime Reduction: Delivered performance dashboards and led trend and variance analysis across regions, contributing to a 20% reduction in unplanned downtime, using Power BI, SQL and Azure Data Studio.
+  - Data Quality Monitoring & Metrics Definition: Defined success metrics and instituted data quality monitoring, sustaining a monthly reporting cadence of 14 reports during the engagement and improving leadership visibility, using SQL, Power BI and documentation.
+  - Cross-Functional Coordination & Data Flow: Coordinated inputs across teams to keep data flows accurate and consistent, ensuring timely delivery of 14 scheduled regional reports and stakeholder updates, using SQL, Azure Data Studio and stakeholder communication templates.
+  - Stakeholder Communication & Insight Translation: Conveyed analysis and trend findings to non-technical stakeholders through concise executive updates, delivering 14 monthly executive summaries to support decision-making, using Power BI, Excel and presentation materials.
+  - Process Oversight & Reporting Governance: Owned reporting cycles and stakeholder updates, standardising templates and delivery processes which sustained consistent reporting frequency over 14 months, using Power BI, SQL and reporting governance documentation.
 
 **Data Scientist @ Hamoye AI Labs  (_Jan 2022 - April 2022_)**
-  - Analyzed over 100,000 data points to visualize climate trends and derive actionable insights from unstructured FAO datasets.
-  - Built and validated machine learning models with up to 90% accuracy, forecasting ecological footprints and energy consumption. 
-
+  - Model Development & Predictive Performance: Built classification and regression models on structured and unstructured datasets, improving interpretation accuracy by 25% across projects, using Python (scikit-learn), R and SQL.
+  - Reporting Automation & Compliance: Produced visualisations and automated reports for management and compliance reviews, delivering 4 automated reports during the engagement, using Python, Power BI and R.
+  - Data Cleansing & Validation: Enforced cleansing and validation across multiple sources to improve input quality for models, reducing data-related issues in pipelines across the engagement period, using Python (pandas), SQL and validation scripts.
+  - Technical Simplification & Stakeholder Support: Simplified technical outputs for business leaders and supported presentation materials and Q&A, contributing to clearer decision-making in 4 management review cycles, using Power BI, Python and slide decks.
+  - Model Interpretation & Explainability: Enhanced model interpretability and documentation to support operational handover, producing model explanation artefacts for 4 projects and using SHAP-style techniques, Python and R.
 
 ## Projects - Data Science
 
