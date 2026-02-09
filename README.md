@@ -90,8 +90,7 @@ I used SQL and Python to perform RFM and cohort analysis, then built predictive 
 **What It Enabled**
 This supports targeted retention strategies focused on high-value, high-risk customers and better allocation of marketing spend.
 
-![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png) [Link to deployed model]()
-
+![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png)
 
 ## Projects - Data Analytics
 
