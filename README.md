@@ -39,13 +39,13 @@
 ### Healthcare Tweet Sentiment Classification
 [Project Details](https://github.com/helen-oy/Big-Data-Analytics-projects)
 
-Business Goal
+**Business Goal**
 “The goal was to automatically classify large volumes of unstructured text into meaningful topics to understand public sentiment at scale.”
 
-What I Did
+**What I Did**
 “I used Spark SQL and Spark ML to process high-volume tweet data and built a multinomial Naive Bayes model, comparing local modelling with a global self-supervised learning approach.”
 
-What It Enabled
+**What It Enabled**
 “This enables organisations to automatically monitor customer or public feedback, identify key themes, and prioritise response strategies at scale.”
 
 ![Hot Healthcare Topics](imgfolder/tweetsPicture.png)
@@ -53,15 +53,29 @@ What It Enabled
 
 ### Bus Arrival Time Prediction
 [Project Details](https://github.com/helen-oy/Transport-Data-Analysis-Big-data-project-)
+**Business Goal**
+The goal was to predict service delays and understand patterns affecting transport reliability.
 
-Used Artificial Neural Network combined with k-means clustering for predicting bus arrival times for Department of Transports’ Bus Open Data Service, United- Kingdom. Applied K-means clustering to segment travel times and trained ANN models to classify travel times into delay categories:  zero, low, moderate, and high. This approach led to better identify temporal trends, such as peak delays during weekday mornings and minimal delays in off-peak hours. The results contributes to improving the public transport systems by offering more reliable arrival time predictions.
+**What I Did**
+I used K-means clustering to segment travel patterns and trained an ANN model to classify delay levels using historical bus movement data.
+
+**What It Enabled**
+This allows transport operators to adjust scheduling and resources to improve reliability during peak congestion periods.
+
 
 ![Bus Arrival Time Prediction](imgfolder/CDM-predicting-bus-arrival-time-at-21-st-bus-stop-station.png)
 
 ### Customer Lifetime Prediction and Churn Analysis
 [Project Details](https://github.com/helen-oy/Customer_Lifetime_Value_ML_Model)
 
-Deployed Machine learning model to predict customer lifetime value segment on **Google Cloud**. Used Revenue, Frequency, Monetary Value Analysis with  **Python** to predict lifetime value within a 6-month window for over 600,000 customer records. Predicted churn rate of 3000+ customers, identified high-risk churn segments using **Xgboost** model and  achieved 92% prediction accuracy. Diagnosed and mitigated overfitting caused by class imbalance in revenue distribution using model simplification.
+**Business Goal**
+The goal was to improve customer retention and marketing efficiency by identifying high-value customers and churn risk.
+
+**What I Did**
+I used SQL and Python to perform RFM and cohort analysis, then built predictive CLV and churn models using XGBoost on over 600,000 customer records.
+
+**What It Enabled**
+This supports targeted retention strategies focused on high-value, high-risk customers and better allocation of marketing spend.
 
 ![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png) [Link to deployed model]()
 
@@ -70,8 +84,15 @@ Deployed Machine learning model to predict customer lifetime value segment on **
 
 ### Helpdesk Ticket Status Report
 [Project Details](https://lookerstudio.google.com/reporting/2b302444-1d67-4be8-a9e2-ae1bdabfb073)
+**Business Goal**
+The goal was to monitor support team performance and identify process improvements to reduce ticket backlog.
 
-Designed an interactive dashboard that shows performance of the helpdesk support team in handing incidence and requests tickets using **Google Looker Studio**. Identified areas for improvements by departments, needs for new hires and recommended introduction of self service options to reduce workload and improve ticket processing speed.
+**What I Did**
+I built an interactive Looker Studio dashboard tracking ticket trends, resolution patterns, and departmental workload.
+
+**What It Enabled**
+This helped identify where new hires and self-service options could reduce workload and improve response time.
+
 
 ![Helpdesk Ticket Report](imgfolder/Helpdesk_ticket_Looker_Report.jpg)
 
@@ -79,7 +100,14 @@ Designed an interactive dashboard that shows performance of the helpdesk support
 ### Customer Churn Dashboard
 [Project Details](https://public.tableau.com/app/profile/helen.soremekun/viz/Tableau_Telco_customer_churn/Churn_Rate_TrendsPatterns?publish=yes)
 
-An ideal churn rate is 5-7% per year, depending on if you measure customers or revenue. The churn rate in this project was calculated overall, for a period of 72 months (3 years) based on the data set fields: customer segments, service types, monthly charges, payment methods, tech support, streaming services and contract type using **SQL queries** and **Tableau** for visualization. In the period of three years, churn rate was 26.54%, with  a 1.8% per year churn rate increase above an ideal 7% upper band churn rate.
+**Business Goal**
+The goal was to measure churn trends and identify which customer segments were driving higher-than-acceptable churn rates.
+
+**What I Did**
+I used SQL to calculate churn metrics over 72 months and built a Tableau dashboard to visualise churn by segment, contract type, and behaviour.
+
+**What It Enabled**
+This allows stakeholders to quickly identify high-risk segments and prioritise targeted retention strategies.
 
 ![Churn rate by Demographics](imgfolder/Churn_Rate_Trends&Patterns.png)
 
@@ -87,7 +115,14 @@ An ideal churn rate is 5-7% per year, depending on if you measure customers or r
 ### Contact Centre KPI metrics Reporting
 [Project Details](https://docs.google.com/spreadsheets/d/1C1dyJY6WyH9LOfsDYhYvVm60t2eqBTHzQCTRJGB4S2M/edit?gid=34913950#gid=34913950)
 
-Created a dashboard to report weekly, monthly, and yearly KPI metrics such as average answer rate, average abandon rate, and call trends for a Call Centre to support workflow and workforce and management using **Google sheets**. Identified that call center 3.4% Average Abandon Rate from 669, 671 Inbound calls and peak calls occuring in October.
+**Business Goal**
+The goal was to monitor call centre performance and workforce efficiency using KPI metrics.
+
+**What I Did**
+I built a reporting dashboard in Google Sheets tracking answer rate, abandon rate, and call trends over time.
+
+**What It Enabled**
+This helped management understand peak periods, reduce abandon rates, and optimise staffing.
 
 ![Contact Centre KPI metrics report](imgfolder/CallCenter_KPI'sDashboard.jpg)
 
@@ -96,7 +131,14 @@ Created a dashboard to report weekly, monthly, and yearly KPI metrics such as av
 [Project Details](https://app.powerbi.com/view?r=eyJrIjoiMjc4YzFmOTMtMTY2MC00YTYyLTlhNTMtNWFmOGEwMGJjMmQwIiwidCI6ImNlZWI4M2FiLTMzOTItNGViYy05ZWYxLTNmYTc2YmYzYzI0MiJ9
  )
  
-Designed an Interactive Dashboard using **Power BI**, **DAX queries** and **SQL** **scripts** to obtain monthly and yearly sales key performance indicators such as total revenue, total sales, top-performing products, top-performing products subcategories, production costs, profit after tax and products performance by country between 2016 to 2019. In 2018, the highest sales and profits were recorded and North Americ yield the most profit from the 7 continents.
+**Business Goal**
+The goal was to analyse sales performance, profitability, and product trends across regions.
+
+**What I Did**
+I used SQL, DAX, and Power BI to build dashboards tracking revenue, profit, product performance, and regional trends over multiple years.
+
+**What It Enabled**
+This allowed leadership to identify top-performing products, profitable regions, and yearly performance patterns.
 
 ![Automobile Sales Analysis Dashboard](imgfolder/AutomobileSalesAnalysisReport.jpg)
 
@@ -104,12 +146,28 @@ Designed an Interactive Dashboard using **Power BI**, **DAX queries** and **SQL*
 ### Superstore Sales Insights Dashboard
 [Project Details](https://public.tableau.com/app/profile/helen.soremekun/viz/tableauproject_sales_insight/Dashboard1?publish=yes)
 
-Created an Interactive dashboard and interpreted 150,000+  transactional data into a user-friendly interface, providing the managing director with key insights using **Tableau desktop** connected to **MySQL** server .Presented key performance indicators (KPIs) such as total revenue, total sales, top-performing products, customer demographics, and sales trends with simple and clear visualizations. Delhi NCR region generated the most revenue and the customer with the most revenue "Electricalsara Store", generated over 40% of the total revenue in 2018. 
+**Business Goal**
+The goal was to translate large transactional data into clear sales and customer insights for decision-making.
+
+**What I Did**
+I connected Tableau to a MySQL database and built dashboards showing KPIs, customer revenue contribution, and regional sales trends.
+
+**What It Enabled**
+This helped management quickly identify key revenue drivers and customer segments contributing most to sales.
+
+
 ![Superstore Sales Insights Dashboard](imgfolder/StationerySuperstoreDashboard.png)
 
 ### Count-based Analysis of Pet breeds 
-Using **Excel** functions like pivot tables, slicers, vlookups, xlookups, pivot charts, created a summary of the count-based analysis of cat and dog breeds based on their different subgroups such as weight, physical characteristics, temperament, price, and average sales. Identified that Quantity sold is independent of the popularity of dog and cat breeds. High/less-popular breeds have almost the same quantity sold. In the selection of top breeds to stock up are Turkish van, American shorthair, LaPerm and Persian cats promises to yield the most revenue, based on average price and quantity sold.
- 
+**Business Goal**
+The goal was to understand how product characteristics influenced sales performance.
+
+**What I Did**
+I used Excel pivot tables and lookup functions to analyse breed characteristics, pricing, and quantity sold.
+
+**What It Enabled**
+This informed which breeds to prioritise for stocking based on revenue potential rather than popularity.
+
 
 
 
