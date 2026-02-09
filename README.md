@@ -35,6 +35,17 @@
   - Model Interpretation & Explainability: Enhanced model interpretability and documentation to support operational handover, producing model explanation artefacts for 4 projects and using SHAP-style techniques, Python and R.
 
 ## Projects - Data Science
+**Customer Service Response Bot (RAG + LLM for X/Twitter)**
+[Project Details](https://docs.google.com/presentation/d/1uuZIGD1VnTjzdudm7wDMjz-Sf3yp5EUSyZGq9cq0nLQ/edit?usp=sharing)
+
+**Business Goal**
+The goal was to reduce customer response time and agent workload by automating replies to routine support queries on social media while maintaining high response quality.
+
+**What I Did**
+I cleaned and reconstructed historical tweet conversations into Q→A pairs, built a retrieval pipeline using FAISS, and integrated a RAG architecture with an LLM to generate responses grounded in real past interactions. I also created lexical filters to distinguish true unresolved cases from customer closure messages and designed evaluation metrics based on latency and response similarity.
+
+**What It Enabled**
+This enables near-instant, consistent responses to common customer queries, reduces false identification of unresolved tickets, and allows human agents to focus only on complex issues requiring empathy, with a ~96% reduction in response time.
 
 ### Healthcare Tweet Sentiment Classification
 [Project Details](https://github.com/helen-oy/Big-Data-Analytics-projects)
