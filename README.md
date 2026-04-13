@@ -112,6 +112,7 @@ This allows stakeholders to quickly identify high-risk segments and prioritise t
 ### **Key Information Extraction from Planning PDFs**
 
 **Document Classification & Information Extraction from Historical Planning Records**
+
 Built a document processing pipeline to classify scanned planning notice pages and extract structured fields such as applicant names and application numbers from noisy multi-page PDFs.
 
 **What I built**
