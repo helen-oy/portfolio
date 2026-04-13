@@ -1,11 +1,20 @@
 
-# Data Scientist
+# Customer-Focused Data Scientist
+I design predictive models and decision systems that improve retention, customer support, and commercial performance. My recent work includes churn and lifetime value modelling, experimentation, retrieval-augmented AI, and analytics automation.
+- Built churn and customer value models to identify high-risk, high-value cohorts for targeted retention
+- Reduced customer support response time from 5 minutes to 5 seconds using a RAG-based support assistant
+- Improved reporting accuracy by 30% and reduced manual reporting effort by 80% through automated data workflows
 
 #### Technical Skills 
-**Data Science**: Python, SQL, R, Machine Learning, Azure Databricks, Google Cloud Platform (GCP), CI/CD, Github Actions.
+**Core Expertise**: Customer analytics, churn modelling, customer lifetime value (CLV), segmentation, experimentation, statistical inference, retrieval-augmented generation (RAG), predictive modelling, decision frameworks, reporting automation, stakeholder communication
 
-**Analytics**:  PowerBI, Tableau, Microsoft Excel, Azure Data Studio, Looker.
+**Machine Learning & Data**:  Python, SQL, R, scikit-learn, LightGBM, Spark, Databricks, FAISS, NLP, model evaluation, feature engineering
 
+**Analytics & BI**
+Power BI, Tableau, Looker Studio, Excel, DAX, Power Query
+
+**Cloud & Delivery**
+Azure Databricks, Google Cloud Platform, GitHub Actions, CI/CD
 
 ## Education
 - MSc., Data Science | University of Nottingham
@@ -14,55 +23,74 @@
 ## Work Experience
 **Data Scientist @ Business Full Spectrum (_Jan 2025 - Present_)**
   
-  - Predictive Analytics & Churn Modeling: Built and trained a machine-learning churn model across behavioural features, achieving 95.7% prediction accuracy and enabling identification of high-risk cohorts for a targeted 10% churn reduction strategy, using Python (scikit-learn), SQL and Databricks.
-  - Experimentation & Statistical Validation: Designed and evaluated A/B tests using hypothesis testing (Mann–Whitney U, Chi-Square), validated statistically significant differences between customer groups prior to deployment, increasing confidence in retention interventions, using Python (SciPy), SQL and Power BI.
-  - Business Intelligence & Reporting Accuracy: Built and maintained acquisition, activation, engagement and retention dashboards, improving management reporting accuracy by 30% and accelerating actions on at-risk segments, using Power BI (DAX, Power Query), SQL and Python.
-  - RAG Prototype & Support Automation: Designed and evaluated a Retrieval-Augmented Generation customer support bot by reconstructing historical Twitter conversations and grounding LLM responses in agent data, reducing response time from 5 minutes to 5 seconds (98% improvement), using RAG methods, LLM tooling and Twitter data pipelines.
+  - Built a customer decision framework combining RFM segmentation, probabilistic models (BG/NBD, Gamma-Gamma), and machine learning (LightGBM) to predict 90-day churn risk and CLV.
+  - Achieved ROC-AUC of 0.7654 for churn prediction and developed actionable segments (high-value at risk, loyal, emerging customers).
+  - Enabled prioritised retention and marketing strategies based on customer value and risk.
+  - Designed and evaluated A/B tests using hypothesis testing (Mann–Whitney U, Chi-Square), validated statistically significant differences between customer groups prior to deployment, increasing confidence in retention interventions, using Python (SciPy), SQL and Power BI.
+  - Built and maintained acquisition, activation, engagement and retention dashboards, improving management reporting accuracy by 30% and accelerating actions on at-risk segments, using Power BI (DAX, Power Query), SQL and Python.
+  - Designed and evaluated a Retrieval-Augmented Generation customer support bot by reconstructing historical Twitter conversations and grounding LLM responses in agent data, reducing response time from 5 minutes to 5 seconds (98% improvement), using RAG methods, LLM tooling and Twitter data pipelines.
+  - Built an OCR and NLP pipeline to classify document pages and extract structured fields (e.g., applicant names, application numbers) from noisy PDFs.
+  - Combined rule-based extraction with named entity recognition to improve robustness under OCR noise.
   - Data Governance & Process Automation: Owned the insight/reporting backlog and instituted validation rules and reconciliation checks, achieving a 90% reduction in reporting errors and cutting quarterly manual effort by 80%, using Power Query, Python and SQL.
     
 **Project Analyst @ MRS Oil and Gas (_July 2022 – August 2023_)**
-  - Operational Analytics & Downtime Reduction: Delivered performance dashboards and led trend and variance analysis across regions, contributing to a 20% reduction in unplanned downtime, using Power BI, SQL and Azure Data Studio.
-  - Data Quality Monitoring & Metrics Definition: Defined success metrics and instituted data quality monitoring, sustaining a monthly reporting cadence of 14 reports during the engagement and improving leadership visibility, using SQL, Power BI and documentation.
-  - Cross-Functional Coordination & Data Flow: Coordinated inputs across teams to keep data flows accurate and consistent, ensuring timely delivery of 14 scheduled regional reports and stakeholder updates, using SQL, Azure Data Studio and stakeholder communication templates.
-  - Stakeholder Communication & Insight Translation: Conveyed analysis and trend findings to non-technical stakeholders through concise executive updates, delivering 14 monthly executive summaries to support decision-making, using Power BI, Excel and presentation materials.
-  - Process Oversight & Reporting Governance: Owned reporting cycles and stakeholder updates, standardising templates and delivery processes which sustained consistent reporting frequency over 14 months, using Power BI, SQL and reporting governance documentation.
+  - Delivered operational performance dashboards and trend analyses across regions, contributing to a 20% reduction in unplanned downtime by improving visibility into performance exceptions.
+  - Defined reporting metrics, data quality checks, and governance routines that sustained 14 monthly reporting cycles and improved leadership visibility into operational performance.
+  - Coordinated cross-functional data inputs and reporting processes, ensuring timely delivery of standardised executive updates and more reliable decision support.
+  - Synthesised technical findings into business-facing narratives for non-technical leaders, strengthening the link between analysis and operational decision-making.
+  - Standardised reporting templates and workflows to improve consistency, reduce ambiguity, and support scalable performance monitoring.
 
 **Data Scientist @ Hamoye AI Labs  (_Jan 2022 - April 2022_)**
-  - Model Development & Predictive Performance: Built classification and regression models on structured and unstructured datasets, improving interpretation accuracy by 25% across projects, using Python (scikit-learn), R and SQL.
-  - Reporting Automation & Compliance: Produced visualisations and automated reports for management and compliance reviews, delivering 4 automated reports during the engagement, using Python, Power BI and R.
-  - Data Cleansing & Validation: Enforced cleansing and validation across multiple sources to improve input quality for models, reducing data-related issues in pipelines across the engagement period, using Python (pandas), SQL and validation scripts.
-  - Technical Simplification & Stakeholder Support: Simplified technical outputs for business leaders and supported presentation materials and Q&A, contributing to clearer decision-making in 4 management review cycles, using Power BI, Python and slide decks.
-  - Model Interpretation & Explainability: Enhanced model interpretability and documentation to support operational handover, producing model explanation artefacts for 4 projects and using SHAP-style techniques, Python and R.
+  - Built classification and regression models across structured and unstructured datasets, improving model interpretation accuracy by 25% across project work.
+  - Automated reporting and visual outputs for management and compliance use cases, improving repeatability and reducing manual analysis overhead.
+  - Improved model input quality through data cleaning and validation pipelines across multiple sources, strengthening downstream model reliability.
+  - Produced business-friendly model interpretation artefacts to support stakeholder understanding, handover, and adoption.
+  - Supported leadership reviews by translating technical findings into concise decision-ready summaries and presentations.
 
-## Projects - Data Science
-### Customer Service Response Bot (RAG + LLM for X/Twitter)
+## Projects
+1. **Retail Customer Segmentation, CLV & Churn Risk Modelling**
 
-[Project Details](https://docs.google.com/presentation/d/1uuZIGD1VnTjzdudm7wDMjz-Sf3yp5EUSyZGq9cq0nLQ/edit?usp=sharing)
+Retail Customer Segmentation, Lifetime Value & Churn Risk Modelling
+Built a customer decisioning framework for a non-contractual retail environment where churn is not directly observed. Combined descriptive segmentation, probabilistic CLV modelling, and supervised machine learning to identify which customers were high-value, at risk, or suitable for low-cost nurturing.
 
-**Business Goal**
-The goal was to reduce customer response time and agent workload by automating replies to routine support queries on social media while maintaining high response quality.
+**What I built**
 
-**What I Did**
-I cleaned and reconstructed historical tweet conversations into Q→A pairs, built a retrieval pipeline using FAISS, and integrated a RAG architecture with an LLM to generate responses grounded in real past interactions. I also created lexical filters to distinguish true unresolved cases from customer closure messages and designed evaluation metrics based on latency and response similarity.
+RFM-based customer segmentation for lifecycle visibility
+BG/NBD and Gamma-Gamma models for expected purchase frequency and spend
+LightGBM models to predict 90-day churn risk and 90-day CLV
+An action framework combining predicted value and risk into next-best actions such as retention, loyalty, upsell, or nurture
 
-**What It Enabled**
-This enables near-instant, consistent responses to common customer queries, reduces false identification of unresolved tickets, and allows human agents to focus only on complex issues requiring empathy, with a ~96% reduction in response time.
+**Key results**
 
-### Customer Lifetime Prediction and Churn Analysis
-[Project Details](https://github.com/helen-oy/Customer_Lifetime_Value_ML_Model)
+Churn model achieved ROC-AUC = 0.7654
+CLV model achieved MAE ≈ 534
+Produced decision-ready customer groupings such as High Value | At Risk and High Value | Stable
+Shifted analysis from descriptive reporting to prioritised customer action
 
-**Business Goal**
-The goal was to improve customer retention and marketing efficiency by identifying high-value customers and churn risk.
+**Why it matters**
+This project shows the ability to connect modelling to commercial decisions, helping retailers allocate retention budget more efficiently and prioritise customers by both risk and expected value.
 
-**What I Did**
-I used SQL and Python to perform RFM and cohort analysis, then built predictive CLV and churn models using XGBoost on over 600,000 customer records.
+2. **Customer Support Automation with RAG + LLM**
+Designed and evaluated a retrieval-augmented support assistant grounded in historical customer service interactions to reduce response latency and improve service consistency.
 
-**What It Enabled**
-This supports targeted retention strategies focused on high-value, high-risk customers and better allocation of marketing spend.
+**What I built**
 
-![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png)
+Reconstructed historical social support conversations into reusable question-answer pairs
+Built a retrieval layer using FAISS and embedding-based semantic search
+Designed prompts to constrain the LLM to grounded historical responses and avoid fabricated policies or links
+Evaluated quality using response similarity, latency measurement, and manual review
 
-### Customer Churn Dashboard
+**Key results**
+
+Reduced response time from 5 minutes to 5 seconds
+Achieved approximately 96–98% improvement in response latency
+Introduced guardrails to reduce hallucination risk by restricting outputs to retrieved historical evidence
+Preserved human escalation for nuanced or empathy-heavy cases
+
+**Why it matters**
+This project demonstrates how to design AI systems for real customer operations: grounded, measurable, and aligned with service quality rather than novelty alone.
+
+3. ### Customer Churn Dashboard
 [Project Details](https://public.tableau.com/app/profile/helen.soremekun/viz/Tableau_Telco_customer_churn/Churn_Rate_TrendsPatterns?publish=yes)
 
 **Business Goal**
@@ -75,8 +103,29 @@ I used SQL to calculate churn metrics over 72 months and built a Tableau dashboa
 This allows stakeholders to quickly identify high-risk segments and prioritise targeted retention strategies.
 
 ![Churn rate by Demographics](imgfolder/Churn_Rate_Trends&Patterns.png)
+### Customer Service Response Bot (RAG + LLM for X/Twitter)
 
-### Healthcare Tweet Sentiment Classification
+[Project Details](https://docs.google.com/presentation/d/1uuZIGD1VnTjzdudm7wDMjz-Sf3yp5EUSyZGq9cq0nLQ/edit?usp=sharing)
+
+![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png)
+
+4. **Key Information Extraction from Planning PDFs**
+
+**Document Classification & Information Extraction from Historical Planning Records**
+Built a document processing pipeline to classify scanned planning notice pages and extract structured fields such as applicant names and application numbers from noisy multi-page PDFs.
+
+**What I built**
+
+OCR-based text extraction pipeline for scanned pages using PaddleOCR
+Zero-shot page classification using a BART MNLI model
+Hybrid field extraction combining regular expressions and SpaCy named entity recognition
+Error handling for OCR noise and false matches, especially where application numbers resembled dates
+
+**Why it matters**
+This project shows practical NLP capability on messy real-world documents, not just clean benchmark data. It demonstrates applied document intelligence, pipeline thinking, and an understanding of extraction reliability under noisy conditions.
+
+
+5. ### Healthcare Tweet Sentiment Classification
 [Project Details](https://github.com/helen-oy/Big-Data-Analytics-projects)
 
 **Business Goal**
@@ -91,20 +140,7 @@ This allows stakeholders to quickly identify high-risk segments and prioritise t
 ![Hot Healthcare Topics](imgfolder/tweetsPicture.png)
 
 
-### Bus Arrival Time Prediction
-[Project Details](https://github.com/helen-oy/Transport-Data-Analysis-Big-data-project-)
 
-**Business Goal**
-The goal was to predict service delays and understand patterns affecting transport reliability.
-
-**What I Did**
-I used K-means clustering to segment travel patterns and trained an ANN model to classify delay levels using historical bus movement data.
-
-**What It Enabled**
-This allows transport operators to adjust scheduling and resources to improve reliability during peak congestion periods.
-
-
-![Bus Arrival Time Prediction](imgfolder/CDM-predicting-bus-arrival-time-at-21-st-bus-stop-station.png)
 
 
 ## Projects - Data Analytics
