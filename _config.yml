@@ -1,13 +1,5 @@
 title: Helen Soremekun
-description: >-
-  I am a customer-focused data scientist with experience building predictive
-  models, experimentation frameworks, and AI-assisted workflows that improve
-  retention, customer support, and business decision-making. My work sits at
-  the intersection of machine learning, analytics, and strategy: I build
-  models, but I also focus on how teams use them to prioritise action,
-  allocate resources, and improve outcomes. Recently, I have worked on churn
-  and customer lifetime value modelling, retrieval-augmented support systems,
-  reporting automation, and customer insight frameworks.
+description: Customer-focused data scientist specialising in churn, CLV, experimentation, and AI-assisted decision systems.
 logo: imgfolder/pprofile.jpeg
 #description: text below image
 theme: jekyll-theme-minimal
