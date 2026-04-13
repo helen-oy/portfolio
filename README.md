@@ -48,7 +48,7 @@ Azure Databricks, Google Cloud Platform, GitHub Actions, CI/CD
   - Supported leadership reviews by translating technical findings into concise decision-ready summaries and presentations.
 
 ## Projects
-1. **Retail Customer Segmentation, CLV & Churn Risk Modelling**
+### **Retail Customer Segmentation, CLV & Churn Risk Modelling**
 
 Retail Customer Segmentation, Lifetime Value & Churn Risk Modelling
 Built a customer decisioning framework for a non-contractual retail environment where churn is not directly observed. Combined descriptive segmentation, probabilistic CLV modelling, and supervised machine learning to identify which customers were high-value, at risk, or suitable for low-cost nurturing.
@@ -70,7 +70,7 @@ Shifted analysis from descriptive reporting to prioritised customer action
 **Why it matters**
 This project shows the ability to connect modelling to commercial decisions, helping retailers allocate retention budget more efficiently and prioritise customers by both risk and expected value.
 
-2. **Customer Support Automation with RAG + LLM**
+### **Customer Support Automation with RAG + LLM**
 Designed and evaluated a retrieval-augmented support assistant grounded in historical customer service interactions to reduce response latency and improve service consistency.
 
 **What I built**
@@ -90,7 +90,7 @@ Preserved human escalation for nuanced or empathy-heavy cases
 **Why it matters**
 This project demonstrates how to design AI systems for real customer operations: grounded, measurable, and aligned with service quality rather than novelty alone.
 
-3. ### Customer Churn Dashboard
+### **Customer Churn Dashboard**
 [Project Details](https://public.tableau.com/app/profile/helen.soremekun/viz/Tableau_Telco_customer_churn/Churn_Rate_TrendsPatterns?publish=yes)
 
 **Business Goal**
@@ -109,7 +109,7 @@ This allows stakeholders to quickly identify high-risk segments and prioritise t
 
 ![CustomerLifeTimeValueSegments](imgfolder/clvprediction.png)
 
-4. **Key Information Extraction from Planning PDFs**
+### **Key Information Extraction from Planning PDFs**
 
 **Document Classification & Information Extraction from Historical Planning Records**
 Built a document processing pipeline to classify scanned planning notice pages and extract structured fields such as applicant names and application numbers from noisy multi-page PDFs.
@@ -125,7 +125,7 @@ Error handling for OCR noise and false matches, especially where application num
 This project shows practical NLP capability on messy real-world documents, not just clean benchmark data. It demonstrates applied document intelligence, pipeline thinking, and an understanding of extraction reliability under noisy conditions.
 
 
-5. ### Healthcare Tweet Sentiment Classification
+### **Healthcare Tweet Sentiment Classification**
 [Project Details](https://github.com/helen-oy/Big-Data-Analytics-projects)
 
 **Business Goal**
