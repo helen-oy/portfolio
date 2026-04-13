@@ -33,7 +33,7 @@ Azure Databricks, Google Cloud Platform, GitHub Actions, CI/CD
   - Combined rule-based extraction with named entity recognition to improve robustness under OCR noise.
   - Data Governance & Process Automation: Owned the insight/reporting backlog and instituted validation rules and reconciliation checks, achieving a 90% reduction in reporting errors and cutting quarterly manual effort by 80%, using Power Query, Python and SQL.
     
-**Project Analyst @ MRS Oil and Gas (_July 2022 – August 2023_)**
+**Data Scientist @ MRS Oil and Gas (_July 2022 – August 2023_)**
   - Delivered operational performance dashboards and trend analyses across regions, contributing to a 20% reduction in unplanned downtime by improving visibility into performance exceptions.
   - Defined reporting metrics, data quality checks, and governance routines that sustained 14 monthly reporting cycles and improved leadership visibility into operational performance.
   - Coordinated cross-functional data inputs and reporting processes, ensuring timely delivery of standardised executive updates and more reliable decision support.
