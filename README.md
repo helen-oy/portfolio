@@ -48,6 +48,36 @@ Azure Databricks, Google Cloud Platform, GitHub Actions, CI/CD
   - Supported leadership reviews by translating technical findings into concise decision-ready summaries and presentations.
 
 ## Projects
+### **Customer Lifetime Value & Retention Intelligence**
+[GitHub Repo](https://github.com/helen-oy/customer-ltv-and-retention-intelligence) | [Live Dashboard](https://lnkd.in/eQgbd_fy) | [Medium Article](https://medium.com/@helenoy/turning-customer-data-into-retention-intelligence-09681292b547?sharedUserId=helenoy)
+
+Built and deployed an end-to-end customer retention intelligence system for a non-contractual retail business, where churn is inferred from customer inactivity rather than formal subscription cancellation.
+
+**Business Goal**  
+The goal was to help answer: which customers should the business retain, how much should it invest, and which retention action is most appropriate?
+
+**What I Built**
+
+- 90-day customer lifetime value prediction using LightGBM
+- 90-day churn risk scoring for non-contractual retail customers
+- RFM segmentation to understand customer lifecycle health
+- Value-at-risk prioritisation to identify high-value customers likely to churn
+- Campaign recommendation logic for retention, loyalty, upsell, and nurture actions
+- Campaign ROI analysis to connect retention decisions to expected business value
+- FastAPI backend serving customer profiles, segment summaries, predictions, and campaign economics
+- Streamlit executive dashboard for interactive business decision-making
+- Dockerised deployment-ready project structure with packaged model artifacts
+
+**Key Results**
+
+- Churn model achieved ROC-AUC of 0.72
+- CLV model achieved R² of 0.52
+- Created an interactive dashboard for identifying high-value at-risk customers and monitoring segment health
+- Translated predictive modelling outputs into practical campaign and retention decisions
+
+**Why It Matters**  
+This project shows how machine learning can move beyond prediction into decision support. It helps a retail business prioritise retention budget, target the right customers, and estimate the financial value of campaign actions before execution.
+
 ### **Retail Customer Segmentation, CLV & Churn Risk Modelling**
 
 Retail Customer Segmentation, Lifetime Value & Churn Risk Modelling
